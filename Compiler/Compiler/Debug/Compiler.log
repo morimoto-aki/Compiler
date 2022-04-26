@@ -1,0 +1,3 @@
+﻿  Compiler.cpp
+d:\git\compiler\compiler\compiler\compiler.cpp(7): warning C4326: 'main' の戻り値の型には、'int' を使用してください。'void' は使用できません
+  Compiler.vcxproj -> D:\git\Compiler\Compiler\Debug\Compiler.exe
